@@ -2,7 +2,7 @@ import asyncio
 
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
-OWNERS = "7520092354"
+OWNERS = "7297381612"
 from SACHIN_MUSIC import app
 from SACHIN_MUSIC.utils.database import add_served_chat, get_assistant
 
